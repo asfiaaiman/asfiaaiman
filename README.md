@@ -1,54 +1,26 @@
-👋 Hello and welcome to my profile! My name is Asfia Aiman, and I'm a skilled web developer with three years of experience in the industry. 🌟
+👋 Welcome to my profile! I'm Asfia Aiman, a skilled web developer with a passion for creating amazing web solutions. 🌟
 
-👩🏻 Let me take a moment to introduce myself. I am proficient in the following skill-set:
+👩🏻‍💻 I'm proficient in a wide range of frontend and backend languages, including JavaScript, HTML, CSS, and PHP. I also have experience working with frameworks like Bootstrap and Laravel, as well as databases like MySQL.
 
-✅ Frontend Languages
+🤖 As a customer-centric, self-motivated, and professional web developer, I'm always looking for new challenges and opportunities to grow. That's why I'm currently sharpening my JavaScript skills and learning it in detail from Meta. 🔍💡
 
-💻🎨🌐🛠️ JavaScript
+👀 If you're looking for a passionate and skilled web developer for your next project, look no further! I'm open to part-time freelance projects/tasks for individuals and permanent work for companies that recruit remote workers. 🤝
 
-🎨🌐 HTML
+🔗 Let's connect and work together to create amazing web solutions! You can find me on:
 
-🎨🌐 CSS
+Github: 🌟 https://github.com/asfiaaiman
 
-🔍🎨 jQuery
+Upwork: 💼 https://www.upwork.com/freelancers/~014d8778e095099b74?s=1110580755107926016
 
-🔍🎨 AJAX
+Fiverr: 💻 https://fiverr.com/asfiaaiman3
 
-✅ Backend Languages
+Twitter: 🐦 https://twitter.com/pieces12395
 
-🌐💾 PHP
+LinkedIn: 👥 https://www.linkedin.com/in/asfia-aiman
 
-✅ Frameworks
+Instagram: 📸 https://instagram.com/twainriders
 
-🔍🎨 Bootstrap
-
-🔍🌐 Laravel
-
-✅ Databases
-
-🌐💾 MySQL
-
-🔷 I am Customer Centric, Self-Motivated, Professional, and a Fast Learner.
-
-💡 Currently, I'm sharpening my JavaScript skills by learning it in detail from Meta. I'm always on the lookout for new challenges and exciting opportunities to apply my skills and create value. 🔍
-
-🤝 If you're looking for a passionate and skilled web developer for your next project or to join your team, let's connect! I'm open to part-time freelance projects/tasks for individuals and permanent work for companies that recruit remote workers. 🤝
+YouTube: 🎥 https://youtube.com/@twainriders2463
 
 
-Here are my contact links:
-
-👉 Github: 🌟 https://github.com/asfiaaiman
-
-👉 Upwork: 💼 https://www.upwork.com/freelancers/~014d8778e095099b74?s=1110580755107926016
-
-👉 Fiverr: 💻  https://fiverr.com/asfiaaiman3
-
-👉 Twitter: 🐦 https://twitter.com/pieces12395
-
-👉 LinkedIn: 👥 https://www.linkedin.com/in/asfia-aiman
-
-👉 Instagram: 📸 https://instagram.com/twainriders
-
-👉 YouTube: 🎥 https://youtube.com/@twainriders2463
-
-Let's connect and work together to create amazing web solutions! 💻🌟
+👉 So what are you waiting for? Let's create something amazing together! 💻🌟🙌
