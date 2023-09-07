@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Laravel Framewrok, Databases, and Bootstrap**
 
-- 📫 How to reach me **aiman.asfia@gmail.com**
+- 📫 How to reach me? Email me here: **aiman.asfia@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/asfia-aiman/](https://www.linkedin.com/in/asfia-aiman/)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/asfia-aiman/)
 
 - ⚡ Fun fact **I am a biker, photographer and videographer**
 
