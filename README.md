@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **VueJs Framework**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/asfia-aiman/](https://www.linkedin.com/in/asfia-aiman/)
+- 👨‍💻 All of my projects are available at [Linkedin/Projects](https://www.linkedin.com/in/asfia-aiman/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/asfia-aiman/](https://www.linkedin.com/in/asfia-aiman/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@aiman.asfia)
 
 - 💬 Ask me about **Laravel Framewrok, Databases, and Bootstrap**
 
