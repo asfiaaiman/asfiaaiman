@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **VueJs Framework**
 
-- 👨‍💻 All of my projects are available at [Linkedin/Projects](https://www.linkedin.com/in/asfia-aiman/)
+- 👨‍💻 All of my projects are available at [Linkedin/Projects](https://www.linkedin.com/in/asfia-aiman/details/projects/))
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@aiman.asfia)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me? Email me here: **aiman.asfia@gmail.com**
 
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/asfia-aiman/)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/asfia-aiman/details/experience/)
 
 - ⚡ Fun fact **I am a biker, photographer and videographer**
 
