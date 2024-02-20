@@ -9,6 +9,7 @@
 <p align="center"> <a href="https://twitter.com/pieces12395" target="blank"><img src="https://img.shields.io/twitter/follow/pieces12395?logo=twitter&style=for-the-badge" alt="pieces12395" /></a> </p>
 
 <div align="center">
+  
 🔭 I’m currently working on White Label Shop [my company's project]
 
 🌱 I’m currently learning **VueJs Framework**
