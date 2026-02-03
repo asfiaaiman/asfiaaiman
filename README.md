@@ -1,80 +1,115 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=280&section=header&text=Asfia%20Aiman&fontSize=90&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Laravel%20Developer%20%7C%20SaaS%20Architect%20%7C%20Available%20for%20Remote%20Opportunities&descAlignY=70&descAlign=62" alt="header" width="100%"/>
+</div>
 
-# 👋 Hi, I'm Asfia Aiman  
-### 💻 Full-stack Laravel Developer | 💡 Problem Solver | 🌍 Open to Global Tech Teams  
+<div align="center">
+  <h1>👋 Hello, I'm Asfia Aiman</h1>
+  <h3>Full-Stack Laravel Developer • Building Scalable SaaS & Business Tools</h3>
+  <p>
+    <strong>Available immediately for remote projects or relocation • Fast onboarding • Production-ready code</strong>
+  </p>
+</div>
 
+<div align="center">
+  <a href="mailto:aiman.asfia@gmail.com?subject=Project%20Discussion%20-%20Available%20Now">
+    <img src="https://img.shields.io/badge/📩%20Hire%20Me-3498db?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asfia-aiman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2c3e50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nooksdubai.com/">
+    <img src="https://img.shields.io/badge/View%20Live%20Projects-16a085?style=for-the-badge&logoColor=white" alt="Live Projects"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=asfiaaiman&style=flat-square&color=0abde3)
-![Followers](https://img.shields.io/github/followers/asfiaaiman?style=flat-square&color=0984e3)
-![Stars](https://img.shields.io/github/stars/asfiaaiman?style=flat-square&color=f39c12)
-![Top Language](https://img.shields.io/github/languages/top/asfiaaiman/epub-manager?style=flat-square&color=ff7675)
-![Repos](https://img.shields.io/badge/Public%20Repos-20+-6c5ce7?style=flat-square)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/asfiaaiman)
-![Years Badge](https://badges.pufler.dev/years/asfiaaiman)
-![Repos Badge](https://badges.pufler.dev/repos/asfiaaiman)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=asfiaaiman&style=flat-square&color=3498db&label=Profile+Views)
+  ![Followers](https://img.shields.io/github/followers/asfiaaiman?style=flat-square&color=2c3e50)
+  ![Stars](https://img.shields.io/github/stars/asfiaaiman?style=flat-square&color=16a085)
+  ![Top Language](https://img.shields.io/github/languages/top/asfiaaiman/epub-manager?style=flat-square&color=3498db)
+  ![Repos](https://img.shields.io/badge/Public%20Repos-20+-2c3e50?style=flat-square)
 </div>
 
----
-
-### 🛠️ Tech Toolbox
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📦 Featured Projects
-
-| Name | Description | Link |
-|------|-------------|------|
-| 📚 EPUB Manager | Manage and organize ePub files | [GitHub](https://github.com/asfiaaiman/epub-manager) |
-| 🎓 Chark Education | Digital learning platform | [Live Site](https://charkeducation.net) |
-| 🛍️ White Label Shop | E-commerce platform (private repo) | 🔒 Private |
-
----
-
-### 📊 GitHub Analytics
+### 🛠️ Tech Stack
 
 <div align="center">
-
-![Asfia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asfiaaiman&show_icons=true&theme=tokyonight&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asfiaaiman&layout=compact&theme=tokyonight&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asfiaaiman&theme=tokyonight&hide_border=false)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asfiaaiman&theme=tokyo-night&hide_border=true)
-
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Architecture-DDD%20%E2%80%A2%20SOA%20%E2%80%A2%20EDA-2c3e50?style=for-the-badge"/>
 </div>
 
----
+### 💼 Skills Overview
 
-### 💼 Let's Connect
+#### Core Technologies & Frameworks
+- **Laravel** (7+ experiences, 3 endorsements) • Mastering Laravel & PHP
+- **PHP** • OOP • MVC
+- **Vue.js** • Inertia.js • TypeScript
+- **Tailwind CSS** • Bootstrap • HTML5 • CSS • JavaScript • jQuery • AJAX
+- **MySQL** • SQL • PhpMyAdmin
+- **REST APIs** • Sanctum • JSON • Postman
 
-- 📫 Email: [aiman.asfia@hotmail.com](mailto:aiman.asfia@hotmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/asfia-aiman](https://www.linkedin.com/in/asfia-aiman/)  
-- 🌍 Based in Islamabad, **open to relocation**
+#### Architecture & Best Practices
+- **Domain-Driven Design (DDD)**
+- **Service-Oriented Architecture (SOA)**
+- **Event-Driven Architecture (EDA)**
+- **Microservices**
+- **Test-Driven Development (TDD)**
+- **Code Refactoring** • **Object-Oriented Design** • **Agile Methodologies**
 
----
+#### Tools & Integrations
+- **Payment Gateways** (Tabby, Moyassar, Stripe)
+- **Firebase Push Notifications**
+- **Git** • **Web Scraping**
+- **Laravel Lumen** • **MODx**
+- **ERD** • **UML** • **Software Requirement Design**
+
+#### Soft Skills & Other
+- **Problem Solving** • **Critical Thinking** • **Analytical Skills**
+- **Teamwork** • **Leadership** • **Communication** • **Presentation Skills**
+- **Project Management** • **Agile Project Management** • **Software Project Management**
+- **Responsive Web Design** • **Web Development** • **Back-End Web Development**
+- **English** (Proficient) • **Business English**
+
+#### Languages & Misc
+- **Python** (Data Structures, Databases, Web Data)
+- **C++** • **C#**
+- **Linux**
+
+### 📌 Key Projects & Impact
+
+| Period         | Project              | Highlights & Business Value                                  | Stack                              | Link                          |
+|----------------|----------------------|----------------------------------------------------------------|------------------------------------|-------------------------------|
+| Jun 2025 – Present | Syntopia Dashboard | Multi-tenant SaaS with payments & scalable architecture       | Laravel 12, SOA, Gateways          | 🔒 Private (Upwork)           |
+| Nov 2025       | Invoice Tracker      | VAT-compliant invoicing for agencies, reporting & validation  | Laravel 12, Vue 3, Inertia, TS     | [GitHub](https://github.com/asfiaaiman/invoice-tracker) |
+| Aug–Sep 2025   | Mulhim.sa            | Accredited CME platform — courses, certifications, integrations | DDD, SOA, Tabby/Moyassar           | [Live](https://www.mulhim.sa/) |
+| Jan–May 2025   | Nooks Dubai          | Service booking system — scheduling, payments, notifications  | Laravel 11, REST, EDA, Firebase    | [Live](https://nooksdubai.com/) |
+
+**Pinned:** Invoice Tracker • epub-manager
 
 <div align="center">
+  <h3>GitHub Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=asfiaaiman&show_icons=true&theme=dracula&border_radius=10&hide_border=true&count_private=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfiaaiman&layout=compact&theme=dracula&border_radius=10&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfiaaiman&theme=dracula&border_radius=10&hide_border=true" alt="streak"/>
+</div>
 
-> *"Code with purpose. Build with empathy. Grow globally."*  
-> — Asfia Aiman 💻🌍✨
-
+<div align="center">
+  <br/>
+  <h3>Let's Collaborate</h3>
+  <p><strong>Based in Pakistan • Open to global remote work & relocation</strong></p>
+  <p>Clean architecture • Reliable delivery • Client-focused solutions</p>
+  <blockquote>
+    "Building tools that scale and solve real problems."
+  </blockquote>
+  <p>
+    <a href="mailto:aiman.asfia@gmail.com?subject=Let's%20Discuss%20Your%20Project">📩 Reach out — available now</a>
+  </p>
 </div>
