@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=220&section=header&text=Asfia%20Aiman&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Laravel%20Developer%20%7C%20SaaS%20Architect&descAlignY=70&descAlign=62" alt="header" width="100%"/>
-</div>
-
 <h2 align="center">👋 Hi, I'm Asfia Aiman</h2>
 <p align="center">
 Full-Stack Laravel Developer • Building Scalable SaaS & Business Tools  
@@ -23,11 +19,14 @@ Available immediately for remote projects or relocation • Fast onboarding • 
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=asfiaaiman&style=flat-square&color=3498db)
-  ![Followers](https://img.shields.io/github/followers/asfiaaiman?style=flat-square&color=2c3e50)
-  ![Stars](https://img.shields.io/github/stars/asfiaaiman?style=flat-square&color=16a085)
-  ![Top Language](https://img.shields.io/github/languages/top/asfiaaiman/epub-manager?style=flat-square&color=3498db)
-  ![Public Repos](https://img.shields.io/badge/Public%20Repos-20+-2c3e50?style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=asfiaaiman&style=flat-square&color=3498db" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/asfiaaiman?style=flat-square&color=2c3e50" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/asfiaaiman?style=flat-square&color=16a085" alt="Stars"/>
+  <img src="https://img.shields.io/github/languages/top/asfiaaiman/epub-manager?style=flat-square&color=3498db" alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-20+-2c3e50?style=flat-square" alt="Public Repos"/>
+  <a href="https://user-badge.committers.top/pakistan_private/asfiaaiman">
+    <img src="https://user-badge.committers.top/pakistan_private/asfiaaiman.svg" alt="committers.top badge"/>
+  </a>
 </p>
 
 ### 🛠️ Tech Stack
@@ -37,13 +36,12 @@ Available immediately for remote projects or relocation • Fast onboarding • 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 💼 Skills
-**Frameworks & Languages:** Laravel, PHP, Vue.js, Inertia.js, TypeScript, Tailwind CSS, Bootstrap, JS, jQuery, AJAX, MySQL, REST APIs  
+**Frameworks & Languages:** Laravel, PHP, Vue.js, Inertia.js, Tailwind CSS, Bootstrap, JS, jQuery, AJAX, MySQL, REST APIs  
 **Architecture:** DDD • SOA • EDA • Microservices • TDD • Refactoring  
 **Tools:** Git, ERD, UML, Firebase, Payment Integrations (Tabby, Moyassar, Stripe)  
 **Soft Skills:** Problem Solving, Teamwork, Leadership, Client-Focused Solutions  
@@ -52,7 +50,7 @@ Available immediately for remote projects or relocation • Fast onboarding • 
 | Project | Highlights | Stack | Link |
 |---------|-----------|-------|------|
 | **Syntopia Dashboard** | Multi-tenant SaaS, payments & scalable architecture | Laravel 12, SOA | 🔒 Private |
-| **Invoice Tracker** | VAT-compliant invoicing, reporting & validation | Laravel 12, Vue 3, Inertia, TS | [GitHub](https://github.com/asfiaaiman/invoice-tracker) |
+| **Invoice Tracker** | VAT-compliant invoicing, reporting & validation | Laravel 12, Vue 3, Inertia | [GitHub](https://github.com/asfiaaiman/invoice-tracker) |
 | **Mulhim.sa** | Accredited CME platform | DDD, SOA, Tabby/Moyassar | [Live](https://www.mulhim.sa/) |
 | **Nooks Dubai** | Service booking — scheduling, payments, notifications | Laravel 11, REST, EDA, Firebase | [Live](https://nooksdubai.com/) |
 
