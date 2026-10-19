@@ -42,11 +42,11 @@ I build scalable web applications, business platforms, and reliable backend syst
 
 ---
 
-### 📈 GitHub Commit Rank
+### 📈 GitHub Commit Leaderboard
 
 <p align="center">
   <a href="https://ghcommits.com/u/asfiaaiman">
-    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commits Rank" />
+    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commit Rank" />
   </a>
 </p>
 
