@@ -42,16 +42,11 @@ I build scalable web applications, business platforms, and reliable backend syst
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Commit Rank
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asfiaaiman&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfiaaiman&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <a href="https://ghcommits.com">
-    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="GitHub Commits Badge" />
+  <a href="https://ghcommits.com/u/asfiaaiman">
+    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commits Rank" />
   </a>
 </p>
 
