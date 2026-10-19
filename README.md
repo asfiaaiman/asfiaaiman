@@ -37,6 +37,7 @@
 <a href="https://user-badge.committers.top/pakistan_private/asfiaaiman">
   <img src="https://user-badge.committers.top/pakistan_private/asfiaaiman.svg" alt="committers.top badge"/>
 </a>
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/asfiaaiman.svg)](https://ghcommits.com)
 
 </div>
 
