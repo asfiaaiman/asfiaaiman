@@ -1,11 +1,34 @@
 # Asfia Aiman
+
 ### Senior Laravel / PHP Developer | SaaS & Backend Systems
 
-I build scalable web applications, business platforms, and reliable backend systems with Laravel and PHP. I focus on clean architecture, maintainable code, API integrations, and practical solutions to business problems.
+I build scalable web applications, business platforms, and reliable backend systems with Laravel and PHP. I focus on clean architecture, maintainable code, API integrations, database optimization, and practical solutions to business problems.
 
 **Based in Pakistan · Open to Remote Opportunities & Relocation**
 
-[Email](mailto:aiman.asfia@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asfia-aiman/) · [Portfolio](https://nooksdubai.com/)
+[Email](mailto:aiman.asfia@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asfia-aiman/) 
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <a href="https://ghcommits.com/u/asfiaaiman">
+    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commit Rank" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asfiaaiman&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfiaaiman&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asfiaaiman&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
+</p>
 
 ---
 
@@ -42,18 +65,18 @@ I build scalable web applications, business platforms, and reliable backend syst
 
 ---
 
-### 📈 GitHub Commit Leaderboard
+### 📈 Engineering Impact
 
-<p align="center">
-  <a href="https://ghcommits.com/u/asfiaaiman">
-    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commit Rank" />
-  </a>
-</p>
-
+- Reduced dashboard database queries from **66 to 35**, eliminating duplicate queries in an optimized endpoint.
+- Developed and maintained business-critical Laravel applications and SaaS platforms.
+- Built reusable backend services and maintainable application architectures.
+- Integrated third-party payment gateways, external APIs, and notification services.
+- Improved application performance through database query optimization and thoughtful refactoring.
+- Focused on reliable production delivery, data integrity, and scalable backend design.
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -62,13 +85,15 @@ I build scalable web applications, business platforms, and reliable backend syst
 | **Mulhim.sa** | Continuing medical education platform | DDD, SOA, Tabby, Moyassar |
 | **Nooks Dubai** | Booking, scheduling, payments, and notifications | Laravel 11, REST APIs, Firebase |
 
+**Project Links**
+
 - [Invoice Tracker — GitHub](https://github.com/asfiaaiman/invoice-tracker)
 - [Mulhim.sa — Live](https://www.mulhim.sa/)
 - [Nooks Dubai — Live](https://nooksdubai.com/)
 
 ---
 
-### Engineering Principles
+### 🧩 Engineering Principles
 
 - Clean, maintainable, and reusable code
 - SOLID principles and thoughtful refactoring
@@ -76,21 +101,55 @@ I build scalable web applications, business platforms, and reliable backend syst
 - Test-driven development and reliable delivery
 - Database design and query optimization
 - API integrations and event-driven workflows
+- Separation of concerns and thin controllers
+- Performance, security, and data integrity
 
 ---
 
-📈 GitHub Commit Leaderboard
+### 🧠 Currently Exploring
+
+Expanding my expertise beyond traditional backend development into AI and intelligent software systems.
+
+- Python and Machine Learning
+- Generative AI and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI-powered chatbots and backend integrations
+- Data Analytics and data-driven applications
+
+---
+
+### 🎓 Certifications & Learning
+
+- **Introduction to Generative AI** – Credly
+- **Elements of AI** – University of Helsinki
+- **Generative AI Training** – Higher Education Commission (HEC)
+- **Data Analytics Virtual Experience** – Deloitte Australia
+- **Digital Learning Pathway** – Pakistan Women Leaders Project (TDEA)
+
+---
+
+### 🐍 GitHub Contributions
 
 <p align="center">
-  <a href="https://ghcommits.com/u/asfiaaiman">
-    <img src="https://ghcommits.com/api/badge/asfiaaiman.svg" alt="Asfia Aiman's GitHub Commit Rank" />
-  </a>
+  <img src="https://raw.githubusercontent.com/asfiaaiman/asfiaaiman/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-### Let's Connect
+### 🤝 Let's Connect
 
 I'm interested in building useful products with ambitious teams, especially SaaS platforms, business applications, and backend systems.
 
+**Open to:** Remote Opportunities · International Teams · Relocation · Backend Engineering Roles
+
 **[Get in touch](mailto:aiman.asfia@gmail.com?subject=Laravel%20Developer%20Opportunity)**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asfiaaiman&label=Profile%20Views&color=355746&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Building reliable systems. Solving real problems. Learning continuously.</i>
+</p>
